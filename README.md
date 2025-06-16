@@ -1,4 +1,4 @@
-EcoWatch: Predicting Air Quality Using Meteorological Data
+# EcoWatch: Predicting Air Quality Using Meteorological Data
 
 This project builds a regression model to predict AQI (Air Quality Index) from meteorological data such as temperature, humidity, wind speed, and pressure.
 
